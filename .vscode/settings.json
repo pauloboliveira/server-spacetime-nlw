@@ -205,7 +205,7 @@
       "editor.defaultFormatter": "vscode.json-language-features"
     },
     "workbench.editor.untitled.hint": "hidden",
-    "workbench.colorTheme": "Omni",
+    "workbench.colorTheme": "Default Dark Modern",
     "liveServer.settings.donotShowInfoMsg": true,
     "[json]": {
       "editor.defaultFormatter": "vscode.json-language-features"
